@@ -1,4 +1,4 @@
-// ===================================
+/ ===================================
 // LAB 4: DARK MODE 
 // ===================================
 
@@ -13,13 +13,13 @@
 // STEP 1: Select DOM Elements
 // ===================================
 // TODO: Select the theme toggle button (id: 'themeToggle')
-const themeToggleBtn = null;
+const themeToggleBtn = document.getElementById('themeToggle');
 
 // TODO: Select the theme icon element (id: 'themeIcon')
-const themeIcon = null;
+const themeIcon = document.getElementById('themeIcon');
 
 // TODO: Get the <body> element
-const body = null;
+const body = document.body;
 
 
 // ===================================
